@@ -1,0 +1,19 @@
+@font-face {
+      font-family: 'Mega Drone Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('Mega Drone Regular'), url('MegadroneRegular-d9BE6.woff') format('woff');
+}
+
+h1 {
+      font-family: 'Mega Drone Regular';
+      font-size: 3.5rem;
+      color: rgb(255, 255, 255);
+      opacity: 0.75;
+      text-shadow: 2px 2px 4px white;
+}
+
+hr {
+      border: 1px solid rgb(255, 255, 255);
+      opacity: 0.6;
+}

@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(0, 128, 187), turquoise, rgb(125, 146, 172), turquoise, rgb(0, 128, 187));
+  background: -webkit-linear-gradient(right, rgb(0, 128, 187), turquoise, rgb(125, 146, 172), turquoise, rgb(0, 128, 187)); /* Chrome10+, Safari5.1+ */
+  background: -moz-linear-gradient(right, rgb(0, 128, 187), turquoise, rgb(125, 146, 172), turquoise, rgb(0, 128, 187));    /* FF3.6+ */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
