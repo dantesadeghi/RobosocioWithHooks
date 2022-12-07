@@ -1,23 +1,20 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Card from './Card.js';
 
-class CardList extends Component {
-      render() {
-            const robots = this.props.type
-            const cardArray = robots.map((user, i) => {
-                  return <Card 
-                                    key={robots[i].id} 
-                                    id={robots[i].id} 
-                                    name={robots[i].name} 
-                                    email={robots[i].email}
-                              />
-            })
-            return (
-                  <div>
-                        {cardArray}
-                  </div>
-            );
-      }
+const CardList = ({ type }) => {
+      const cardArray = type.map((user, i) => {
+            return <Card 
+                              key={type[i].id} 
+                              id={type[i].id} 
+                              name={type[i].name} 
+                              email={type[i].email}
+                        />
+      })
+      return (
+            <div>
+                  {cardArray}
+            </div>
+      );
 }
 
 export default CardList;
