@@ -1,6 +1,8 @@
 # RoboSocio
 
-This is my first React application, called Robosocio. It is a simple Single Page Application that features a list of visual cards that hold information (name and email) for each robot 'user' in a social-media style presentation. It also features a search bar component that allows for the user to look up a robot profile by name. In this version I use React Hooks for my App component and changed all of my components from class components to function components (except for ErrorBoundry).
+This is my first React application, called Robosocio. It is a simple Single Page Application that features a list of visual cards that hold information (name and email) for each robot 'user' in a social-media style presentation. It also features a search bar component that allows for the user to look up a robot profile by name. 
+
+In this version I use React Hooks for my App component and changed all of my components from class components to function components (except for ErrorBoundry).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
