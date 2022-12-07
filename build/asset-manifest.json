@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RobosocioWithHooks/static/css/main.134575d7.css",
+    "main.js": "/RobosocioWithHooks/static/js/main.ebab571f.js",
+    "static/js/787.23a03a5f.chunk.js": "/RobosocioWithHooks/static/js/787.23a03a5f.chunk.js",
+    "static/media/MegadroneRegular-d9BE6.woff": "/RobosocioWithHooks/static/media/MegadroneRegular-d9BE6.63ab57a370867a9b1fa6.woff",
+    "index.html": "/RobosocioWithHooks/index.html",
+    "main.134575d7.css.map": "/RobosocioWithHooks/static/css/main.134575d7.css.map",
+    "main.ebab571f.js.map": "/RobosocioWithHooks/static/js/main.ebab571f.js.map",
+    "787.23a03a5f.chunk.js.map": "/RobosocioWithHooks/static/js/787.23a03a5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.134575d7.css",
+    "static/js/main.ebab571f.js"
+  ]
+}
